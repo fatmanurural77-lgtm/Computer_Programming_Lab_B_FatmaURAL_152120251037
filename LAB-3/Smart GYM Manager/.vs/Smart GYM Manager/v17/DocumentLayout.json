@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Smart GYM Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00FB50A5-28FF-44AF-A180-5FBEB1D57E6B}|Smart GYM Manager\\Smart GYM Manager.vcxproj|C:\\Smart GYM Manager\\Smart GYM Manager\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00FB50A5-28FF-44AF-A180-5FBEB1D57E6B}|Smart GYM Manager\\Smart GYM Manager.vcxproj|solutionrelative:Smart GYM Manager\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Smart GYM Manager\\Smart GYM Manager\\Source.cpp",
+              "RelativeDocumentMoniker": "Smart GYM Manager\\Source.cpp",
+              "ToolTip": "C:\\Smart GYM Manager\\Smart GYM Manager\\Source.cpp",
+              "RelativeToolTip": "Smart GYM Manager\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-23T07:14:46.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
