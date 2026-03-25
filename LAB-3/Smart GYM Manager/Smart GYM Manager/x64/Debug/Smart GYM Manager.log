@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Smart GYM Manager\Smart GYM Manager\Source.cpp(66,10): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
-C:\Smart GYM Manager\Smart GYM Manager\Source.cpp(88,25): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
-  Smart GYM Manager.vcxproj -> C:\Smart GYM Manager\x64\Debug\Smart GYM Manager.exe
