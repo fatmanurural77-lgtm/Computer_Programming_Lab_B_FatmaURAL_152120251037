@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\MidTerm Practice\MidTerm Practice\Source.cpp(27,18): warning C4553: '==': result of expression not used; did you intend '='?
+C:\MidTerm Practice\MidTerm Practice\Source.cpp(42,22): warning C4553: '==': result of expression not used; did you intend '='?
+  MidTerm Practice.vcxproj -> C:\MidTerm Practice\x64\Debug\MidTerm Practice.exe
